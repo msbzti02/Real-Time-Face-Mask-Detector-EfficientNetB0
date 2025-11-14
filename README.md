@@ -1,1 +1,1 @@
-# Real-Time-Face-Mask-Detector-EfficientNetB0
+Real-Time Face Mask Detector (EfficientNetB0)
